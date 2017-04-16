@@ -2,6 +2,8 @@
   
 ## Table Of Contents / Содержание:  
   
+_Marked to HTML5_ was used from  
+[online Markdown editor](http://georgeosddev.github.io/markdown-edit/#)
   
   
 <p><a href="Seminar01.ipynb">Seminar01</a>: </p>
