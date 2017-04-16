@@ -9,7 +9,7 @@ _Marked to HTML5_ was used from
 <p><a href="Seminar01.ipynb">Seminar01</a>: </p>
 <ol>
     <li>
-        <details open="">
+        <details>
             <summary> Общие сведения о Python. Стиль кодирования. Тестирование кода.</summary>
             <ul>
                 <li>1.1. Общие сведения о Python
@@ -42,7 +42,7 @@ _Marked to HTML5_ was used from
 <p><a href="Seminar02.ipynb">Seminar02</a>: </p>
 <ol>
     <li>
-        <details open="">
+        <details>
             <summary> Базовые типы данных. Определение переменных. Строки, списки, кортежи, словари, наборы. </summary>
             <ul>
                 <li>2.1. Базовые типы
@@ -78,7 +78,7 @@ _Marked to HTML5_ was used from
 <p><a href="Seminar03.ipynb">Seminar03</a>: </p>
 <ol>
     <li>
-        <details open="">
+        <details>
             <summary> Ветвления, циклы, функции, классы, ввод и вывод, исключения, менеджеры контекста, модули и пакеты </summary>
             <ul>
                 <li>3.1. Ветвления и циклы
@@ -123,7 +123,7 @@ _Marked to HTML5_ was used from
 <p><a href="Seminar04.ipynb">Seminar04</a>: </p>
 <ol>
     <li>
-        <details open="">
+        <details>
             <summary> Python Standard Library modules </summary>
             <ul>
                 <li>4.1 math </li>
@@ -157,7 +157,7 @@ _Marked to HTML5_ was used from
 <p><a href="Seminar05.ipynb">Seminar05</a>: </p>
 <ol>
     <li>
-        <details open="">
+        <details>
             <summary> numpy, scipy and pandas modules </summary>
             <ul>
                 <li>5.1. numpy
@@ -190,7 +190,7 @@ _Marked to HTML5_ was used from
 <p><a href="Seminar06.ipynb">Seminar06</a>: </p>
 <ol>
     <li>
-        <details open="">
+        <details>
             <summary> SymPy и matplotlib </summary>
             <ul>
                 <li>6.1. SymPy
@@ -216,7 +216,7 @@ _Marked to HTML5_ was used from
 <p><a href="Seminar07.ipynb">Seminar07</a>: </p>
 <ol>
     <li>
-        <details open="">
+        <details>
             <summary> Параллельные вычисления. Модули threading, multiprocessing, subprocess. </summary>
             <ul>
                 <li>Параллельные вычисления </li>
@@ -250,7 +250,7 @@ _Marked to HTML5_ was used from
 <p><a href="Seminar08.ipynb">Seminar08</a>: </p>
 <ol>
     <li>
-        <details open="">
+        <details>
             <summary> Совместное использование C++ и Python. Модуль CherryPy для создания веб-приложений. </summary>
             <ul>
                 <li>8.1. Совместное использование с C++
